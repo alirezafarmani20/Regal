@@ -9,5 +9,5 @@ import Footer from './components/Footer.vue';
   <div>
     <NuxtPage />
   </div>
-  <Footer />
+  <!-- <Footer /> -->
 </template>
