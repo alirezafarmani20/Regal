@@ -1,9 +1,7 @@
-<script lang="ts">
-const message:string = "hello home page"
-</script>
+<script lang="ts"></script>
 
 <template>
-    <div>
-        <h1 class="text-[20px] text-red-600">{{ message }}</h1>
-    </div>
+  <div>
+    <h1 class="text-[20px] text-red-600 text-center">hello home page</h1>
+  </div>
 </template>
